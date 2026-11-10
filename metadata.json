@@ -1,0 +1,6 @@
+{
+  "name": "Cinema Sub Lab",
+  "description": "Transcribe videos, translate dialogues, and generate English subtitle tracks and detailed cinematic narrative prompts with AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
